@@ -1,0 +1,23 @@
+body {
+	min-height: 2000px;
+	padding-top: 70px;
+}
+
+#lang_ul li a{
+ background-position:13px 20px;
+ background-repeat: no-repeat;
+ text-indent: -9999px;
+ width: 40px;
+}
+
+#lang_sv {
+	background-image: url('../img/se.gif');
+}
+
+#lang_en {
+	background-image: url('../img/gb.gif');
+}
+
+#lang_no {
+	background-image: url('../img/no.gif');
+}
