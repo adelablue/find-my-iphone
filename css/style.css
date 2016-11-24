@@ -10,6 +10,9 @@ body {
  width: 40px;
 }
 
+.en{display:block;}
+.sv, .no{display:none;}
+
 #lang_sv {
 	background-image: url('../img/se.gif');
 }
