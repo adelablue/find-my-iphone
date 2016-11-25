@@ -24,3 +24,8 @@ body {
 #lang_no {
 	background-image: url('../img/no.gif');
 }
+
+.container ol li {
+	margin-top: 20px;
+	font-size: 20px;
+}
